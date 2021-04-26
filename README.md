@@ -12,5 +12,7 @@ run as follows:
 Output:
 
 <figure class="video_container">
-  <iframe src="face-recong.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true" poster="">
+    <source src="face-recong.mp4" type="video/mp4">
+  </video>
 </figure>
