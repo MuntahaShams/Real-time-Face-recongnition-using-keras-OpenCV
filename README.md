@@ -12,7 +12,8 @@ run as follows:
 Output:
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="">
+  <video controls="true" allowfullscreen="true" poster="![image](https://user-images.githubusercontent.com/58392471/116162265-de8b8b80-a70e-11eb-8302-989e734b7be2.png)
+">
     <source src="face-recong.mp4" type="video/mp4">
   </video>
 </figure>
